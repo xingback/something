@@ -1,0 +1,2 @@
+frist time using git
+第一次感受git
