@@ -1,4 +1,7 @@
 frist time using git
 第一次感受git
 aaaaa
+First time using git, excited! update ...
+insert line here...
+第二次用git
 
